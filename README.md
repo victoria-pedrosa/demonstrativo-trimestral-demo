@@ -1,6 +1,6 @@
-# Demonstrativo Trimestral
+# Demonstração — Geração de demonstrativos trimestrais e PIS/COFINS
 
-> Projeto de portfólio de **Victória Pedrosa** (Automação, Processos e Dados). Automação desenvolvida para um escritório de contabilidade; **esta é uma versão com dados fictícios** — nomes, CNPJs, e-mails e IDs internos foram substituídos.
+> Projeto de portfólio de **Victória Pedrosa**. **Demonstração** de geração de demonstrativos trimestrais e PIS/COFINS — versão com dados fictícios (nomes, CNPJs, e-mails e IDs internos substituídos).
 
 ## Problema de negócio
 Gerar os demonstrativos trimestrais e de PIS/COFINS na Domínio para cada empresa é repetitivo.
